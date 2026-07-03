@@ -667,16 +667,16 @@
       {
         "filename": "STM32_sheild.kicad_sch",
         "name": "STM32_sheild",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "da5a1e6a-2605-436b-a30c-1027586d5c0a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-3,P1",
     "variants": []
   },
   "sheets": [
     [
       "da5a1e6a-2605-436b-a30c-1027586d5c0a",
-      "Root"
+      "STM32_sheild"
     ]
   ],
   "text_variables": {},
