@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\mjach\Nitrox_analyzer_project\STM32Sheild\Active filter-amp simulation\First order active filter amplifyer.net
+Start Time: Sat Jul  4 17:51:46 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.030 seconds.
+
+Files loaded:
+C:\Users\mjach\Nitrox_analyzer_project\STM32Sheild\Active filter-amp simulation\First order active filter amplifyer.net
+C:\Users\mjach\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
