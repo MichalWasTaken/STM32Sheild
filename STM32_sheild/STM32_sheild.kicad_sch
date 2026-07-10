@@ -10772,7 +10772,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3.3V_REG"
 			(at 156.21 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12010,14 +12010,15 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 156.21 16.51 0)
+		(property "Value" "+3.3V_REG"
+			(at 158.75 20.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
