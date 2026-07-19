@@ -712,7 +712,7 @@
         "uuid": "da5a1e6a-2605-436b-a30c-1027586d5c0a"
       }
     ],
-    "used_designators": "U1-4,JP1-2,P1,R1-15,J1-7,D1-4,#PWR1-61,#PWR111-135,C1-12,B1,L1-2,H1-3,TP1-3",
+    "used_designators": "U1-6,JP1-3,P1,TP_V_USB1,R1-15,J1-7,D1-4,#PWR1-63,#PWR111-135,C1-12,TP_GND1,B1,L1-2,H1-3,TP1-6,TP_3.3V_reg1",
     "variants": []
   },
   "sheets": [
