@@ -11856,7 +11856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61b16f1b-4384-403b-8446-51677cad8321")
-		(property "Reference" "TP5"
+		(property "Reference" "TP_VDD1"
 			(at 237.49 36.0679 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11917,7 +11917,7 @@
 		(instances
 			(project "STM32_sheild"
 				(path "/da5a1e6a-2605-436b-a30c-1027586d5c0a"
-					(reference "TP5")
+					(reference "TP_VDD1")
 					(unit 1)
 				)
 			)
@@ -15890,7 +15890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_SMD_Wurth:J_Wurth_WR-USB_629722010114"
+		(property "Footprint" "Connector_SMD_Wurth:J_Wurth_WR-USB_629722050114"
 			(at 83.82 186.69 0)
 			(hide yes)
 			(show_name no)
