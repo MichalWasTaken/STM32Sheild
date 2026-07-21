@@ -100,7 +100,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R13"
-			(at 0 -1.5 0)
+			(at 3 0 0)
 			(layer "F.SilkS")
 			(uuid "e2e2e390-5132-462f-ae1f-df1e3133cffd")
 			(effects
@@ -111,7 +111,7 @@
 			)
 		)
 		(property "Value" "2k"
-			(at 2 0 90)
+			(at 2 -1 0)
 			(layer "F.Fab")
 			(uuid "70024a66-6fab-481f-b4a9-716c1488e437")
 			(effects
@@ -744,12 +744,12 @@
 		(descr "WSON, 10 Pin (http://www.ti.com/lit/gpn/tps63030#page=24)")
 		(tags "WSON NoLead")
 		(property "Reference" "U4"
-			(at 0.5875 -1.9125 0)
+			(at 1.2875 -1.9125 0)
 			(layer "F.SilkS")
 			(uuid "1e2174c8-f04a-4fa2-a954-db373de3c1ad")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2527,7 +2527,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at 3.1 1.2 180)
+			(at 2.5 1 180)
 			(layer "F.SilkS")
 			(uuid "29596cbb-e468-4344-b795-c9aedc37293e")
 			(effects
@@ -3119,7 +3119,7 @@
 		(descr "691210910002-5")
 		(tags "Connector")
 		(property "Reference" "J3"
-			(at 1.94 -5.1 0)
+			(at 1.27 0 0)
 			(layer "F.SilkS")
 			(uuid "29e01f9b-8bbf-48ba-b619-0cc6ea70f7dd")
 			(effects
@@ -3402,7 +3402,7 @@
 			(uuid "8ee3d67d-6293-42e5-bd54-1464e70d1028")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.86 -5.1 0)
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "48464f5c-fb74-454e-bb01-6b0a18356e93")
 			(effects
@@ -3803,7 +3803,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at -2.8 0.1 0)
+			(at 0.5 1.5 0)
 			(layer "F.SilkS")
 			(uuid "dd6747aa-ecd6-4109-b173-00d7944a91c6")
 			(effects
@@ -5245,7 +5245,7 @@
 		(descr "691210910002-5")
 		(tags "Connector")
 		(property "Reference" "J1"
-			(at 4.2 5 0)
+			(at 1.27 0 0)
 			(layer "F.SilkS")
 			(uuid "e57d3101-3d94-44da-ae6e-15c39d88f73f")
 			(effects
@@ -5528,7 +5528,7 @@
 			(uuid "961df9d4-f7f2-49b5-b2f8-f00ad2edf8a0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.2 5 0)
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "4b7dd659-047c-4d77-b359-039df63893e4")
 			(effects
@@ -7297,9 +7297,9 @@
 		(descr "61612002121503-2")
 		(tags "Connector")
 		(property "Reference" "J2"
-			(at -2.26 -5.66 0)
+			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "3e9f2052-54c4-4670-88c4-b9f8b616357f")
+			(uuid "2f66e40c-af2e-45f0-a63d-5ac28c5db8fc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7311,7 +7311,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "481a4d8d-0d0a-4e64-a5f6-fbeed69f8562")
+			(uuid "1dd5c073-7eca-4970-9a5d-c1d6568afced")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7323,7 +7323,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f3f13b0-fcb1-4576-867b-735af57a016d")
+			(uuid "2bd2c388-c8cd-47fa-a521-f28e9d80f5d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7334,7 +7334,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a22f5089-c395-404f-a89b-8e6ff2e14011")
+			(uuid "7f2bbbc2-bbb6-436f-bcc8-e988efbe42b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7580,7 +7580,7 @@
 			(uuid "3af52392-619b-4229-aa6c-143963b2df2f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.26 -5.66 0)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "2074df6b-9103-4a7c-b426-e255ca58a8fa")
 			(effects
@@ -8393,7 +8393,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 2.7 -0.9 270)
+			(at 2.4 0.7 270)
 			(layer "F.SilkS")
 			(uuid "403719b4-8f96-4c51-9f04-0c9342558ec1")
 			(effects
@@ -8539,7 +8539,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at 3 1.2 180)
+			(at 2.5 1 180)
 			(layer "F.SilkS")
 			(uuid "2a6bd4c2-4f5d-46df-bf87-c54ced41768f")
 			(effects
@@ -8685,7 +8685,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing)")
 		(tags "LED")
 		(property "Reference" "D4"
-			(at 0 1.6 0)
+			(at 0.9 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "28863ff3-2d84-4f98-8105-402116fd7f5c")
 			(effects
@@ -11152,12 +11152,12 @@
 		(descr "Keystone THM Multipurpose Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319")
 		(tags "Through Hole Mount Test Points")
 		(property "Reference" "TP_3.3V_reg1"
-			(at -2 -2.7 180)
+			(at 0 -2.75 0)
 			(layer "F.SilkS")
 			(uuid "56060fb8-fd0f-430f-b53e-d4429daffc5b")
 			(effects
 				(font
-					(size 0.8 0.8)
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13028,43 +13028,19 @@
 		(uuid "0dc1f894-6579-4c2d-a709-403795b1dbd6")
 	)
 	(gr_text "Short and cut here \nto connect 3.3V reg"
-		(at 113.1 82.3 90)
+		(at 112.3 81.4 90)
 		(layer "F.SilkS")
 		(uuid "ca88594e-79e7-4033-847e-9d3daeef863a")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "ADC1"
-		(at 120.2 66.4 0)
-		(layer "F.SilkS")
-		(uuid "d966c66b-726a-4c06-93fb-3ac4f69be2ba")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "ADC2"
-		(at 134.6 66.6 0)
-		(layer "F.SilkS")
-		(uuid "380c2ce5-4448-4bb3-a978-291f0ffe4098")
-		(effects
-			(font
-				(size 1 1)
+				(size 0.75 0.75)
 				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
 	)
 	(gr_text "Charger\nindicator\n"
-		(at 142.5 97 270)
+		(at 142.5 93.7 0)
 		(layer "F.SilkS")
 		(uuid "73aa35ba-fa33-4999-a623-823a8839ab4e")
 		(effects
@@ -13088,6 +13064,14 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(segment
+		(start 160.8 103.9)
+		(end 160.9 103.8)
+		(width 0.25)
+		(layer "F.Cu")
+		(net "")
+		(uuid "c7057973-d5b2-4b36-b8db-dbb4b6bd65c2")
 	)
 	(segment
 		(start 149.3125 98.4)
