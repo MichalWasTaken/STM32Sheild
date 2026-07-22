@@ -88,9 +88,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "./Production_files")
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"

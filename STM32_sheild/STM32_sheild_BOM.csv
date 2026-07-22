@@ -1,32 +1,32 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"B1";"1042P_KEY";1;"1042P";;;
-2;"C1, C2, C4, C6, C7, C9, C12";"C_0805_2012Metric";7;"10uF";;;
-3;"C3, C5, C8";"C_0805_2012Metric";3;"100n";;;
-4;"C10, C11";"C_0805_2012Metric";2;"4.7uF";;;
-5;"D1, D4";"LED_0805_2012Metric";2;"LED";;;
-6;"D2, D3";"D_SOD-923";2;"ESD9B3.3ST5G";;;
-7;"H1, H2, H3";"MountingHole_3.2mm_M3";3;"MountingHole";;;
-8;"J1, J3";"691210910002";2;"691210910002";;;
-9;"J2";"61612002121503";1;"61612002121503";;;
-10;"J4";"J_Wurth_WR-USB_629722050114";1;"629722010114";;;
-11;"J5";"PinSocket_2x19_P2.54mm_Vertical";1;"CN10";;;
-12;"J6";"PinSocket_2x19_P2.54mm_Vertical";1;"CN7";;;
-13;"L1";"IND_LPS3015-152MRC";1;"LPS3015-152MRC";;;
-14;"R1, R3";"R_0805_2012Metric";2;"10k";;;
-15;"R2, R4";"R_0805_2012Metric";2;"100R";;;
-16;"R5, R11";"R_0805_2012Metric";2;"470R";;;
-17;"R6, R8";"R_0805_2012Metric";2;"10R";;;
-18;"R7, R9";"R_0805_2012Metric";2;"330k";;;
-19;"R10, R12";"R_0805_2012Metric";2;"2.2k";;;
-20;"R13";"R_0805_2012Metric";1;"2k";;;
-21;"R14, R15";"R_0805_2012Metric";2;"5.1k";;;
-22;"TP_3.3V_reg1";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_3.3V_reg";;;
-23;"TP_ADC1";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_ADC1";;;
-24;"TP_ADC2";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_ADC2";;;
-25;"TP_GND1";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_GND";;;
-26;"TP_VDD1";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_VDD";;;
-27;"TP_V_USB1";"TestPoint_Keystone_5010-5014_Multipurpose";1;"TP_V_USB";;;
-28;"U1";"MODULE_DM-OLED096-636";1;"DM-OLED096-636";;;
-29;"U2, U3";"SOT-23-5";2;"OPA333xxDBV";;;
-30;"U4";"WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm";1;"TPS63031DSK";;;
-31;"U5";"DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm";1;"MCP73831-2-MC";;;
+"Id;""Designator"";""Footprint"";""Quantity"";""Designation"";""Supplier and ref"";",,,,,,
+"1;""B1"";""1042P_KEY"";1;""1042P"";;;",,,,,,
+"2;""C1", C2, C4, C6, C7, C9," C12"";""C_0805_2012Metric"";7;""10uF"";;;"
+"3;""C3", C5," C8"";""C_0805_2012Metric"";3;""100n"";;;",,,,
+"4;""C10"," C11"";""C_0805_2012Metric"";2;""4.7uF"";;;",,,,,
+"5;""D1"," D4"";""LED_0805_2012Metric"";2;""LED"";;;",,,,,
+"6;""D2"," D3"";""D_SOD-923"";2;""ESD9B3.3ST5G"";;;",,,,,
+"7;""H1", H2," H3"";""MountingHole_3.2mm_M3"";3;""MountingHole"";;;",,,,
+"8;""J1"," J3"";""691210910002"";2;""691210910002"";;;",,,,,
+"9;""J2"";""61612002121503"";1;""61612002121503"";;;",,,,,,
+"10;""J4"";""J_Wurth_WR-USB_629722050114"";1;""629722010114"";;;",,,,,,
+"11;""J5"";""PinSocket_2x19_P2.54mm_Vertical"";1;""CN10"";;;",,,,,,
+"12;""J6"";""PinSocket_2x19_P2.54mm_Vertical"";1;""CN7"";;;",,,,,,
+"13;""L1"";""IND_LPS3015-152MRC"";1;""LPS3015-152MRC"";;;",,,,,,
+"14;""R1"," R3"";""R_0805_2012Metric"";2;""10k"";;;",,,,,
+"15;""R2"," R4"";""R_0805_2012Metric"";2;""100R"";;;",,,,,
+"16;""R5"," R11"";""R_0805_2012Metric"";2;""470R"";;;",,,,,
+"17;""R6"," R8"";""R_0805_2012Metric"";2;""10R"";;;",,,,,
+"18;""R7"," R9"";""R_0805_2012Metric"";2;""330k"";;;",,,,,
+"19;""R10"," R12"";""R_0805_2012Metric"";2;""2.2k"";;;",,,,,
+"20;""R13"";""R_0805_2012Metric"";1;""2k"";;;",,,,,,
+"21;""R14"," R15"";""R_0805_2012Metric"";2;""5.1k"";;;",,,,,
+"22;""TP_3.3V_reg1"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_3.3V_reg"";;;",,,,,,
+"23;""TP_ADC1"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_ADC1"";;;",,,,,,
+"24;""TP_ADC2"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_ADC2"";;;",,,,,,
+"25;""TP_GND1"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_GND"";;;",,,,,,
+"26;""TP_VDD1"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_VDD"";;;",,,,,,
+"27;""TP_V_USB1"";""TestPoint_Keystone_5010-5014_Multipurpose"";1;""TP_V_USB"";;;",,,,,,
+"28;""U1"";""MODULE_DM-OLED096-636"";1;""DM-OLED096-636"";;;",,,,,,
+"29;""U2"," U3"";""SOT-23-5"";2;""OPA333xxDBV"";;;",,,,,
+"30;""U4"";""WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm"";1;""TPS63031DSK"";;;",,,,,,
+"31;""U5"";""DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm"";1;""MCP73831-2-MC"";;;",,,,,,

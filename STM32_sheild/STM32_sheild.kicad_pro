@@ -97,10 +97,6 @@
           ""
         ],
         [
-          "lib_footprint_issues|152730000|71500000|43d79f54-7ffd-4190-95ae-77d63a03d5ce|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "lib_footprint_issues|88312500|73590000|e9f775a7-61df-41f2-805f-39e64be2d738|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -207,7 +203,7 @@
         "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -580,7 +576,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./Production_files",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

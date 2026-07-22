@@ -1,0 +1,60 @@
+### Footprint positions - created on 2026-07-22T08:01:14 ###
+### Printed by KiCad version 10.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref         Val                 Package                                                PosX       PosY       Rot  Side
+J5            CN10                PinSocket_2x19_P2.54mm_Vertical                     64.2100    50.7600  180.0000  bottom
+J6            CN7                 PinSocket_2x19_P2.54mm_Vertical                      3.2500    50.7600  180.0000  bottom
+B1            1042P               1042P_KEY                                           25.5000   -13.5000    0.0000  top
+C1            10uF                C_0805_2012Metric                                   50.5000    31.5000    0.0000  top
+C2            10uF                C_0805_2012Metric                                   50.5000    29.0000    0.0000  top
+C3            100n                C_0805_2012Metric                                   55.0000    26.0000   90.0000  top
+C4            10uF                C_0805_2012Metric                                   13.0000    22.5000  -90.0000  top
+C5            100n                C_0805_2012Metric                                   16.5000    22.3000  -90.0000  top
+C6            10uF                C_0805_2012Metric                                   50.5000    22.5000    0.0000  top
+C7            10uF                C_0805_2012Metric                                   29.5000    21.5000  -90.0000  top
+C8            100n                C_0805_2012Metric                                   33.0000    21.5000  -90.0000  top
+C9            10uF                C_0805_2012Metric                                   10.5000    19.0000   90.0000  top
+C10           4.7uF               C_0805_2012Metric                                   55.0000    18.0000    0.0000  top
+C11           4.7uF               C_0805_2012Metric                                   56.5000    15.0000    0.0000  top
+C12           10uF                C_0805_2012Metric                                   10.5000    14.0000  -90.0000  top
+D1            LED                 LED_0805_2012Metric                                 58.5000    34.0000   90.0000  top
+D2            ESD9B3.3ST5G        D_SOD-923                                           21.1000    31.2000  180.0000  top
+D3            ESD9B3.3ST5G        D_SOD-923                                           38.5000    31.0000  180.0000  top
+D4            LED                 LED_0805_2012Metric                                 42.5000    18.0000  180.0000  top
+H1            MountingHole        MountingHole_3.2mm_M3                               10.8700    54.5700    0.0000  top
+H2            MountingHole        MountingHole_3.2mm_M3                               59.1300    53.3000    0.0000  top
+H3            MountingHole        MountingHole_3.2mm_M3                               43.8900     2.6000    0.0000  top
+J1            691210910002        691210910002                                        35.5000    42.0000  180.0000  top
+J2            61612002121503      61612002121503                                      18.9600    41.5400    0.0000  top
+J3            691210910002        691210910002                                        49.5000    39.8000    0.0000  top
+J4            629722010114        J_Wurth_WR-USB_629722050114                         55.6500     9.1700    0.0000  top
+JP1           Jumper_3_Bridged12  SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm    11.0000    45.5000   90.0000  top
+L1            LPS3015-152MRC      IND_LPS3015-152MRC                                  46.5000    25.5000  -90.0000  top
+R1            10k                 R_0805_2012Metric                                   13.9200    32.0800   90.0000  top
+R2            100R                R_0805_2012Metric                                   18.9200    32.1675  -90.0000  top
+R3            10k                 R_0805_2012Metric                                   30.0000    32.0000   90.0000  top
+R4            100R                R_0805_2012Metric                                   35.5000    32.0000  -90.0000  top
+R5            470R                R_0805_2012Metric                                   58.5000    29.5000   90.0000  top
+R6            10R                 R_0805_2012Metric                                   10.5000    26.5000   90.0000  top
+R7            330k                R_0805_2012Metric                                   13.9200    27.5000  -90.0000  top
+R8            10R                 R_0805_2012Metric                                   26.0000    26.5000   90.0000  top
+R9            330k                R_0805_2012Metric                                   30.1000    26.9000  -90.0000  top
+R10           2.2k                R_0805_2012Metric                                   18.5000    18.9125  -90.0000  top
+R11           470R                R_0805_2012Metric                                   46.5000    18.0000  180.0000  top
+R12           2.2k                R_0805_2012Metric                                   16.0000    15.0000  180.0000  top
+R13           2k                  R_0805_2012Metric                                   46.0000    15.5000  180.0000  top
+R14           5.1k                R_0805_2012Metric                                   48.7000    11.0000   90.0000  top
+R15           5.1k                R_0805_2012Metric                                   48.7000     7.0000  -90.0000  top
+TP_3.3V_reg1  TP_3.3V_reg         TestPoint_Keystone_5010-5014_Multipurpose           44.7000    38.8000    0.0000  top
+TP_ADC1       TP_ADC1             TestPoint_Keystone_5010-5014_Multipurpose           -2.1000    21.4000    0.0000  top
+TP_ADC2       TP_ADC2             TestPoint_Keystone_5010-5014_Multipurpose           -2.4000    14.4000    0.0000  top
+TP_GND1       TP_GND              TestPoint_Keystone_5010-5014_Multipurpose           -3.3000     5.2000    0.0000  top
+TP_VDD1       TP_VDD              TestPoint_Keystone_5010-5014_Multipurpose          -12.3000     5.2000    0.0000  top
+TP_V_USB1     TP_V_USB            TestPoint_Keystone_5010-5014_Multipurpose           54.4000     1.4000    0.0000  top
+U1            DM-OLED096-636      MODULE_DM-OLED096-636                              -13.4000    39.4100  -90.0000  top
+U2            OPA333xxDBV         SOT-23-5                                            17.7825    26.6300  180.0000  top
+U3            OPA333xxDBV         SOT-23-5                                            34.3625    26.5000  180.0000  top
+U4            TPS63031DSK         WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm              50.7125    25.5875    0.0000  top
+U5            MCP73831-2-MC       DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm                  51.0750    15.3500  180.0000  top
+## End
